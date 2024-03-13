@@ -1,0 +1,28 @@
+.main3{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    border: 5px solid green;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-image: url(back.webp);
+}
+.achive{
+    padding: 40px 100px;
+}
+.achive h1,.achive h3{
+    text-decoration:solid rgb(255, 255, 255) underline;
+}
+.achive h1{
+    padding-bottom: 10px;
+    color: red;
+}
+.achive h2{
+    padding-bottom: 10px;
+    color: blue;
+    text-decoration: solid rgb(255, 255, 255) underline;
+}
+.achive h3{
+    padding-bottom: 5px;
+    color: aqua;
+}
